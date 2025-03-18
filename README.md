@@ -17,6 +17,7 @@ QUrl urlnow("https://devapi.qweather.com/v7/weather/now?location="+cityCode+"&ke
 QUrl url7d("https://devapi.qweather.com/v7/weather/7d?location="+cityCode+"&key=自己的和风api的key值");//和风七日天气API
 
 QUrl url24h("https://devapi.qweather.com/v7/weather/24h?location="+cityCode+"&key=自己的和风api的key值");//和风24小时天气API
+
 将自己注册key值替换到对应的文本中
 # 参考教程
 作者：明王讲QT【【QT开发专题-天气预报】1. 效果演示、技术分析】 https://www.bilibili.com/video/BV1D841147zt/?share_source=copy_web&vd_source=1b7baee6b7da44c012ffe063bdfb06a1
